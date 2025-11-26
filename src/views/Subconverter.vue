@@ -492,7 +492,7 @@ export default {
             options: [
               {
                 label: "柠檬",
-                value: "https://github.com/Internetmemorycorner/lenmon-subconverter/blob/main/lenmons.ini"
+                value: "https://raw.githubusercontent.com/Internetmemorycorner/lenmon-subconverter/blob/main/rule/lenmon.ini"
               },
               {
                 label: "默认",
@@ -1420,6 +1420,7 @@ export default {
   }
 };
 </script>
+
 
 
 
