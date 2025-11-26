@@ -478,7 +478,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "柠檬后端【vless reality+anytls】": "lenmon.zeabur.app",
+          "柠檬后端【vless reality+anytls】": "https://lenmon.zeabur.app",
           "肥羊增强型后端【vless reality+anytls】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+anytls】": "https://sub.d1.mk",
         },
@@ -1420,6 +1420,7 @@ export default {
   }
 };
 </script>
+
 
 
 
