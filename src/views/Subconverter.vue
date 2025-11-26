@@ -491,6 +491,10 @@ export default {
             label: "通用",
             options: [
               {
+                label: "柠檬",
+                value: "https://github.com/Internetmemorycorner/lenmon-subconverter/blob/main/lenmons.ini"
+              },
+              {
                 label: "默认",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
@@ -1416,6 +1420,7 @@ export default {
   }
 };
 </script>
+
 
 
 
