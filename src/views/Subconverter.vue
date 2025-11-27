@@ -481,8 +481,7 @@ export default {
           "柠檬后端【vless reality+anytls】": "https://lenmon.zeabur.app",
         },
         backendOptions: [
-          {value: "https://url.v1.mk"},
-          {value: "https://sub.d1.mk"},
+          {value: "https://lenmon.zeabur.app"},
         ],
         remoteConfig: [
           {
@@ -1400,6 +1399,7 @@ gotoAdvancedVideo() {
   }
 };
 </script>
+
 
 
 
